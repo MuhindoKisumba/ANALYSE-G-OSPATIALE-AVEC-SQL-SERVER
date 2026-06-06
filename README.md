@@ -273,7 +273,7 @@ Utilisations :
 
 ---
 
-# 🛡 Analyse Sécuritaire
+#  Analyse Sécuritaire
 
 Le système permet :
 
