@@ -1,6 +1,6 @@
-# 🌍 Analyse Géospatiale avec SQL Server Spatial
+#  Analyse Géospatiale avec SQL Server Spatial
 
-## 📖 Présentation
+##  Présentation
 
 Ce projet fournit une collection de requêtes SQL avancées exploitant les fonctionnalités spatiales de Microsoft SQL Server à travers les types de données **GEOGRAPHY** et **GEOMETRY**.
 
@@ -25,7 +25,7 @@ Le script est compatible avec :
 
 ---
 
-# 🎯 Fonctionnalités
+#  Fonctionnalités
 
 ## 1. Gestion des données géographiques
 
@@ -151,7 +151,7 @@ Le système peut :
 
 ---
 
-# 🦠 Module Épidémiologique
+#  Module Épidémiologique
 
 Le script contient plusieurs analyses destinées à la surveillance sanitaire.
 
@@ -202,7 +202,7 @@ Applications :
 
 ---
 
-# 🚨 Gestion des Urgences
+#  Gestion des Urgences
 
 Le script permet :
 
@@ -226,7 +226,7 @@ Calcul :
 
 ---
 
-# 🔥 Analyse de Clusters
+#  Analyse de Clusters
 
 Le module de clustering spatial permet :
 
@@ -243,7 +243,7 @@ Applications :
 
 ---
 
-# 🚛 Analyse Logistique
+#  Analyse Logistique
 
 Le script contient :
 
@@ -298,7 +298,7 @@ Identification :
 
 ---
 
-# ⚡ Optimisation des performances
+#  Optimisation des performances
 
 Le script crée automatiquement :
 
@@ -314,7 +314,7 @@ Avantages :
 
 ---
 
-# 📊 Reporting SIG
+#  Reporting SIG
 
 Le projet fournit :
 
@@ -346,7 +346,7 @@ Indicateurs :
 
 ---
 
-# 🗺 Intégrations possibles
+#  Intégrations possibles
 
 ## SIG
 
@@ -369,7 +369,7 @@ Indicateurs :
 
 ---
 
-# 🏥 Cas d'utilisation
+#  Cas d'utilisation
 
 ## Santé publique
 
@@ -418,31 +418,31 @@ Applications :
 
 ---
 
-# 📈 Résultats attendus
+#  Résultats attendus
 
 Le système permet de :
 
-✅ Cartographier les infrastructures
+ Cartographier les infrastructures
 
-✅ Calculer les distances GPS
+ Calculer les distances GPS
 
-✅ Identifier les zones prioritaires
+ Identifier les zones prioritaires
 
-✅ Détecter les clusters spatiaux
+ Détecter les clusters spatiaux
 
-✅ Mesurer les performances opérationnelles
+ Mesurer les performances opérationnelles
 
-✅ Produire des indicateurs SIG
+ Produire des indicateurs SIG
 
-✅ Alimenter des tableaux de bord décisionnels
+ Alimenter des tableaux de bord décisionnels
 
-✅ Intégrer Power BI, ArcGIS et QGIS
+ Intégrer Power BI, ArcGIS et QGIS
 
-✅ Soutenir la prise de décision stratégique
+ Soutenir la prise de décision stratégique
 
 ---
 
-# 👨‍💻 Technologies
+#  Technologies
 
 - Microsoft SQL Server
 - SQL Server Spatial
@@ -455,7 +455,7 @@ Le système permet de :
 
 ---
 
-# 📄 Licence
+#  Licence
 
 Projet libre d'utilisation à des fins :
 
@@ -469,7 +469,7 @@ Projet libre d'utilisation à des fins :
 
 ## Auteur
 
-**Abdiel Kisumba**
+**Muhindo Kisumba**
 
 Expert en :
 - Bases de données
